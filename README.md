@@ -1,4 +1,4 @@
-# Personal Homepage - Utkarsh Dev
+# Personal Homepage - Utkarsh Dev (Very Descriptive)
 
 This project is a **personal homepage** built using **vanilla HTML5, CSS3, and ES6+ JavaScript**.  
 It was created as part of a web development assignment with the following requirements:
